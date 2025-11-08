@@ -9,5 +9,5 @@ Welcome to my portfolio! I'm passionate about cloud services, sensor tech, and w
 - Proposal Writing
 
 ## 📫 Contact
-- Email: sure_spd@yahoo.co.in
+- Email: sure_spd@yahoo.co.in.com
 - GitHub: [github.com/surespd](https://github.com/surespd)
